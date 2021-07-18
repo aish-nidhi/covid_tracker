@@ -1,0 +1,3 @@
+RED = 1
+ORANGE = 2
+GREEN = 3
